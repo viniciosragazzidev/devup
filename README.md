@@ -1,6 +1,6 @@
 # DevUp
 
-DevUp é uma plataforma para desenvolvedores e designers exibirem seus projetos de forma interativa e visualmente atraente. Pense em um "GitHub turbinado" com páginas de perfil, projetos individuais e, futuramente, interações como likes e comentários.
+DevUp é uma plataforma para desenvolvedores e designers exibirem seus projetos de forma interativa e visualmente atraente. Oferece páginas de perfil, projetos individuais com links para o GitHub e, futuramente, interações como likes e comentários.
 
 ## Tecnologias
 
