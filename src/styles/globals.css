@@ -121,3 +121,9 @@ html {
 
   color: var(--accent-foreground) !important;
 }
+
+@media (max-width: 540px) {
+  html {
+    font-size: 90%;
+  }
+}
